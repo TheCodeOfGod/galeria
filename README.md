@@ -1,2 +1,2 @@
 # galeria
-Practica en clase web
+Practica en clase web de una galeria de s
